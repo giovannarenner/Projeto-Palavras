@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(245, 225, 199);
+    text-align: center;
+
+    color: rgb(243, 162, 100);
+    padding: 30px;
+
+
+}
+.res{
+    margin: 20px;
+    font-size: 30px;
+}
+.input{
+    font-size: 30px;
+}
+.titulo{
+    font-size: 40px;
+}
